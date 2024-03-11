@@ -1,5 +1,5 @@
 {
-  "name": "native-base",
+  "name": "CCL_LIB",
   "description": "Essential cross-platform UI components for React Native",
   "sideEffects": false,
   "keywords": [
